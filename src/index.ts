@@ -16,7 +16,7 @@ const names: string[] = ['julia','ana','carlos', 'miguel'];
 
 //tupla
 
-const person: [number, string] = [1, 'janne']
+const persons: [number, string] = [1, 'janne']
 
 //Lista de tuplas 
 

@@ -8,7 +8,7 @@ const ids = [1, 2, 3, 4, 5];
 const booleans = [true, false, true, false];
 const names = ['julia', 'ana', 'carlos', 'miguel'];
 //tupla
-const person = [1, 'janne'];
+const persons = [1, 'janne'];
 //Lista de tuplas 
 const people = [
     [1, 'carlos'],
